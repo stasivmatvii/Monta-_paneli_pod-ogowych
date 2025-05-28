@@ -110,10 +110,9 @@
     font-weight: bold;
     border: none;
     cursor: pointer;
-    margin-top: 20px;
+    margin: 20px 900px;
   }
   
   button:hover {
     text-decoration: underline;
   }
-  
